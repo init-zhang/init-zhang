@@ -1,3 +1,18 @@
+## Study
+
+- [Tass-OS](https://github.com/init-zhang/tass-os)
+- [BMP image format parser](https://github.com/init-zhang/bmp-study)
+- [Reliable Data Transfer protocol](https://github.com/init-zhang/rdt)
+
+## Snippets
+
+- [Bash](https://github.com/init-zhang/bash-snippets)
+- [SSH](https://github.com/init-zhang/ssh-snippets)
+
+## Utility
+
+- [Git aliases](https://github.com/init-zhang/git.sh)
+
 ![money pls](FHlH2kWXEAQWr9Z.jpeg)
 
 <!--
